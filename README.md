@@ -80,7 +80,7 @@ We will be working closely with the Vyper Security Alliance on submissions.
 </a>
 
 <a href="https://yarn.fi/">
-<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/yearn.png" alt="" width="300">
+<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/yearn-logo.png" alt="" width="300">
 
 <a href="https://curve.fi/">
 <img src="https://raw.githubusercontent.com/Cyfrin/2023-09-vyper-compiler/main/images/curve.png" alt="" width="300">
@@ -88,6 +88,10 @@ We will be working closely with the Vyper Security Alliance on submissions.
 
 <a href="https://unore.io/">
 <img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/unore.png" alt="" width="300">
+</a>
+
+<a href="https://cyfrin.io/">
+<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/cyfrin.png" alt="" width="300">
 </a>
 
 --------------------------------------------------------
