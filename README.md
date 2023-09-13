@@ -25,6 +25,7 @@ The donation address for prizes is:
 - Vyper Commit Hash:
   - `3b310d5` 
   - Aka the [0.3.10rc3](https://github.com/vyperlang/vyper/releases/tag/v0.3.10rc3)
+    - _All the code for this commit is also located in this repo_
 
 
 ## Out of scope:
