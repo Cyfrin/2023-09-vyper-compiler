@@ -6,8 +6,8 @@
 - Total Prize Pool: $150,000(+) USDC
   - HM: 95%
   - L: 5%
-- Starts September 14, 2023 
-- Ends (TBD, temporary date:) November 4th, 2023
+- Starts: September 14, 2023 
+- Ends: November 4th, 2023
 - nSLOC: ~14,644
 
 The donation address for prizes is:
