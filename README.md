@@ -79,7 +79,7 @@ We will be working closely with the Vyper Security Alliance on submissions.
 <img src="https://raw.githubusercontent.com/Cyfrin/2023-09-vyper-compiler/main/images/lido.png" alt="" width="300">
 </a>
 
-<a href="https://yarn.fi/">
+<a href="https://yearn.fi/">
 <img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/yearn-logo.png" alt="" width="300">
 
 <a href="https://curve.fi/">
