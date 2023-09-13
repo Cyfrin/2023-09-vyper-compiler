@@ -36,6 +36,10 @@ The donation address for prizes is:
 Vyper 0.3.9 defaults to shanghai which adds the PUSH0 opcode and which is not yet supported on many chains like Optimism. This can lead to dangerous creation and runtime failures.
 ```
 
+## Known Issues
+
+You can see the list of [known issues here.](https://github.com/Cyfrin/2023-09-vyper-compiler/issues/1)
+
 ## Judging
 
 Due to the sensitivity of the contest, judging for this contest will be private, and conducted by the Cyfrin team, VSA (Vyper Security Alliance), and the contest will likely involve additional external participants. 
