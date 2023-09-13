@@ -74,17 +74,20 @@ We will be working closely with the Vyper Security Alliance on submissions.
 
 # Sponsors 
 
-<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler
-/contest/images/lido.png?sanitize=true" alt="" width="300">
+<a href="https://curve.fi/">
+<img src="https://raw.githubusercontent.com/Cyfrin/2023-09-vyper-compiler/main/images/lido.png" alt="" width="300">
+</a>
 
-<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler
-/contest/images/yearn.png?sanitize=true" alt="" width="300">
+<a href="https://lido.fi/">
+<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/yearn.png" alt="" width="300">
 
-<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler
-/contest/images/curve.png?sanitize=true" alt="" width="300">
+<a href="https://curve.fi/">
+<img src="https://raw.githubusercontent.com/Cyfrin/2023-09-vyper-compiler/main/images/curve.png" alt="" width="300">
+</a>
 
-<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler
-/contest/images/unore.png?sanitize=true" alt="" width="300">
+<a href="https://unore.io/">
+<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/unore.png" alt="" width="300">
+</a>
 
 --------------------------------------------------------
 
