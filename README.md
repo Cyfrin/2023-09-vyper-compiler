@@ -41,8 +41,8 @@ Due to the sensitivity of the contest, judging for this contest will be private,
 
 ## Scoring:
 For this contest, we are looking exclusively for Highs & Mediums. There will be no Informational / QA prize pool. 
-H/M - $140k
-L - $10k
+- H/M - $140k
+- L - $10k
 
 ## Severity Rating
 
