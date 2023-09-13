@@ -75,11 +75,11 @@ We will be working closely with the Vyper Security Alliance on submissions.
 
 # Sponsors 
 
-<a href="https://curve.fi/">
+<a href="https://lido.fi/">
 <img src="https://raw.githubusercontent.com/Cyfrin/2023-09-vyper-compiler/main/images/lido.png" alt="" width="300">
 </a>
 
-<a href="https://lido.fi/">
+<a href="https://yarn.fi/">
 <img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/yearn.png" alt="" width="300">
 
 <a href="https://curve.fi/">
