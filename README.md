@@ -46,8 +46,10 @@ Due to the sensitivity of the contest, judging for this contest will be private,
 
 ## Scoring:
 For this contest, we are looking exclusively for Highs & Mediums. There will be no Informational / QA prize pool. 
-- H/M - $140k
-- L - $10k
+- H/M - 95%
+- L - 5%
+  
+You can check the total prize pool here: [0x18996AdDe10E9AC12e47e5D6a0F486793fad2c15](https://etherscan.io/address/0x18996AdDe10E9AC12e47e5D6a0F486793fad2c15)
 
 ## Severity Rating
 
