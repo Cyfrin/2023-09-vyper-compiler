@@ -75,6 +75,7 @@ This is our first contest that will include a paid "Invited Hawk". We are excite
 
 ## Additional context:
 - The codegen and optimizer sections are critical because it creates/modifies the output EVM code, so if you're looking for Highs, that's likely where you'll find them.
+- Access control - handing the user unintended powers - is a focus of potential attack
 - It's likely that if the compiler produces EVM opcodes/bytecode that is not correct, it could be considered a H/M even if it's not apparent. So please submit your lows. 
 
 We will be working closely with the Vyper Security Alliance on submissions. 
