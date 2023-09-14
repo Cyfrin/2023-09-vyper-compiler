@@ -79,24 +79,49 @@ We will be working closely with the Vyper Security Alliance on submissions.
 
 # Sponsors 
 
-<a href="https://lido.fi/">
-<img src="https://raw.githubusercontent.com/Cyfrin/2023-09-vyper-compiler/main/images/lido.png" alt="" width="300">
-</a>
 
-<a href="https://yearn.fi/">
-<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/yearn-logo.png" alt="" width="300">
-
-<a href="https://curve.fi/">
-<img src="https://raw.githubusercontent.com/Cyfrin/2023-09-vyper-compiler/main/images/curve.png" alt="" width="300">
-</a>
-
-<a href="https://unore.io/">
-<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/unore.png" alt="" width="300">
-</a>
-
-<a href="https://cyfrin.io/">
-<img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/cyfrin.png" alt="" width="300">
-</a>
+<br/>
+<table>
+  <tr>
+    <th align="center">Lido</th>
+    <th align="center">Yearn</th>
+    <th align="center">Curve</th>
+  </tr>
+  <tr>
+  <td align="center">
+      <a href="https://lido.fi/">
+        <img src="https://raw.githubusercontent.com/Cyfrin/2023-09-vyper-compiler/main/images/lido.png" alt="" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://yearn.fi/">
+        <img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/yearn-logo.png" alt="" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://curve.fi/">
+      <img src="https://raw.githubusercontent.com/Cyfrin/2023-09-vyper-compiler/main/images/curve.png" alt="" width="300">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">Cyfrin</th>
+    <th align="center">UnoRe</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://cyfrin.io/">
+      <img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/cyfrin.png" alt="" width="300">
+    </a>
+    </td>
+    <td>
+      <a href="https://unore.io/">
+      <img src="https://raw.githubusercontent.com/cyfrin/2023-09-vyper-compiler/main/images/unore.png" alt="" width="300">
+    </a>
+    </td>
+  </tr>
+</table>
+<br/>
 
 --------------------------------------------------------
 
