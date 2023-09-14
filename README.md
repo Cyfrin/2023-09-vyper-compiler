@@ -69,7 +69,7 @@ We will use the matrix in the CodeHawks documentation to decide severity, but he
 
 ## Invited Hawk
 
-This is our first contest that will include a paid "Invited Hawk". We are excited to welcome [obront.eth](https://twitter.com/zachobront) to this contest! He will be paid from outside the prize pool. 
+This is our first contest that will include a paid "Invited Hawk". We are excited to welcome [obront.eth](https://twitter.com/zachobront) to this contest! He will be paid an additional flat fee from outside the prize pool. 
 
 ## Additional context:
 - The codegen and optimizer sections are critical because it creates/modifies the output EVM code, so if you're looking for Highs, that's likely where you'll find them.
