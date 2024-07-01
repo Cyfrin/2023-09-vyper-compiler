@@ -1,7 +1,5 @@
 # Vyper 0.3.10rc3 Compiler
 
-[//]: # (contest-details-open)
-
 ## Contest Details
 - Total Prize Pool: $150,000(+) USDC
   - HM: 95%
@@ -15,6 +13,8 @@
 The donation address for prizes is:
 - `eth:0x18996AdDe10E9AC12e47e5D6a0F486793fad2c15` (vyper-contest.eth)
 - Any EVM Chain: `0xf71d2231bc1309db6419F82afD8157ea858ADd8C`
+
+[//]: # (contest-details-open)
 
 ## Vyper Compiler Walkthrough
 
